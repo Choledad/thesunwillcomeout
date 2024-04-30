@@ -1,7 +1,11 @@
 // Retrieve tasks and nextId from localStorage
 let taskList = JSON.parse(localStorage.getItem("tasks"));
 let nextId = JSON.parse(localStorage.getItem("nextId"));
-
+//const dueDateInput = document.getElementById('due-date-input');
+//dueDateInput.addEventListener('click', () => {
+    // Show calendar UI or date picker
+    // Use Day.js to handle date selection and formatting
+ // });
 // Todo: create a function to generate a unique task id
 function generateTaskId() {
 
