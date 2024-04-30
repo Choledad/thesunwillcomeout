@@ -13,5 +13,5 @@ This so called "task board" is basically an app that allows you to manage task's
 ## Application itself
 *  Screenshot of app: ![Screenshot of the app](Develop\assets\images\challenge5SS.PNG)
 *  link to app: https://choledad.github.io/thesunwillcomeout/ 
-*  link to repo: (but you should already have this if you're reading this doc)
+*  link to repo: (but you should already have this if you're reading this doc) https://github.com/Choledad/thesunwillcomeout
 
